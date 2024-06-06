@@ -21,4 +21,10 @@ Di dalam proyek ini cakupan proyek yang akan saya buat adalah sebagai berikut:
 1. Sumber data
    Sumber data yang digunakan merupakan data yang diunduh secara manual dari dicoding dan diupload secara manual ke google colab melalui storage local komputer. Adapun file data akan dilampirkan di path berkas ('file_final_project.zip'/'file_final_project'/'Notebook'/'data.csv').
 2. Setup Environment
-  Saya menggunakan dua bingkai kerja yang berbeda untuk proses mengerjakan project. bingkai kerja pertama adalah Google colab untuk mengerjakan file 'Project_Jaya_Jaya_institut.IPYNB', dalam hal ini setup environment yang digunakan sudah terpasang secara otomatis oleh goole colab. Adapun untuk menjalankannya yaitu buka google colab -> upload file 'Project_Jaya_Jaya_institut.IPYNB' -> upload 'data.csv'. Install library yang tidak secara otomatis disediakan oleh google colab dengan cara >> pip install 'library'. Bingkai kerja kedua adalah VScode yang digunakan untuk mengerjakan prototype dan deployment. Setup Environment yang digunakan adalah: 
+  Saya menggunakan dua bingkai kerja yang berbeda untuk proses mengerjakan project. bingkai kerja pertama adalah Google colab untuk mengerjakan file 'Project_Jaya_Jaya_institut.IPYNB', dalam hal ini setup environment yang digunakan sudah terpasang secara otomatis oleh goole colab. Adapun untuk menjalankannya yaitu buka google colab -> upload file 'Project_Jaya_Jaya_institut.IPYNB' -> upload 'data.csv'. Install library yang tidak secara otomatis disediakan oleh google colab dengan cara >> pip install 'library'. Bingkai kerja kedua adalah VScode yang digunakan untuk mengerjakan prototype dan deployment. Setup Environment yang digunakan adalah:
+
+'''
+conda create --name base python 3.11.8
+conda activate base
+streamlit run students_performance_app.py
+'''
