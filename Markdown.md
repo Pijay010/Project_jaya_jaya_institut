@@ -28,6 +28,7 @@ Di dalam proyek ini cakupan proyek yang akan saya buat adalah sebagai berikut:
 3. streamlit run students_performance_app.py
 
 ## Business Dashboard
+link Tableau : https://public.tableau.com/views/BusinessDashboard_17176476133220/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 Adapun untuk memantau perkembangan masalah attrition di dalam perusahaan Jaya Jaya Institut, hal tersebut menggunakan Dashboard yang di mana untuk memantau perkembangan masalah tersebut. berikut penjelasan mengenai isi Dashboard tersebut:
 1. Grafik Total Mahasiswa di Setiap Course
    Grafik ini merupakan grafik sebaran seluruh mahasiswa di setiap course. Grafik ini menjadi grafik dasar untuk melihat kondisi sebaran mahasiswa. Jika di dalam informasi jumlah dropout didominasi pada sebaran jumlah mahasiswa paling banyak di satu course, maka hal tersebut wajar dan berbanding lurus dengan antara jumlah dropout dengan jumlah mahasiswa. begitu juga sebaliknya. Dari grafik yang dihasilkan bahwa sebaran mahasiswa paling banyak ada di course Nurse dengan total mahasiswa yaitu 766 mahasiswa. sedangkan paling rendah yaitu di course Biofuel Production Technologies sebesar 12 mahasiswa.
