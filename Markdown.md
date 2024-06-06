@@ -50,3 +50,12 @@ Dari hasil analisis yang didapat ada beberapa conclusion yang dapat diberikan ya
 3. Penetapan biaya kuliah harus disesuaikan dengan kondisi GDP nasional. Agar sesuai dengan kemampuan keluarga mahasiswa dalam membayar biaya kuliah.
 4. Institut dapat membuka kesempatan pembiayaan untuk mahasiswa yang memiliki ide bisnis agar ide yang didapatkan dapat direalisasikan dengan baik sehingga dapat meningkatkan ekonomi dan membuka lapangan kerja untuk mahasiswa lain.
 
+## Link Prototype dan cara menggunakan Prototype
+1. Link :
+2. Cara menggunakan Prototype yaitu:
+1. Silahkan buka link di browser anda
+2. Silahkan isi data mahasiswa atau calon mahasisiswa yang akan di prediction
+3. pada kolom units 1st sem grade dan units 2nd sem grade anda dapat memasukkan nilai type float atau bilangan berkoma
+4. setelah anda memasukkan semua nilai pada kolom, klik tombol evaluate lalu anda akan diminta untuk mengevaluasi atau check kembali nilai yang sebelumnya telah anda masukkan
+5. terakhir, anda dapat klik tombol prediction untuk melihat hasil prediction
+
