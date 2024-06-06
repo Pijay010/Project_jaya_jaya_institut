@@ -52,7 +52,7 @@ Dari hasil analisis yang didapat ada beberapa conclusion yang dapat diberikan ya
 4. Institut dapat membuka kesempatan pembiayaan untuk mahasiswa yang memiliki ide bisnis agar ide yang didapatkan dapat direalisasikan dengan baik sehingga dapat meningkatkan ekonomi dan membuka lapangan kerja untuk mahasiswa lain.
 
 ## Link Prototype dan cara menggunakan Prototype
-1. Link :
+1. Link : https://projectjayajayainstitut-hs6aaatu2wgdkssbsvvp4x.streamlit.app/
 2. Cara menggunakan Prototype yaitu:
 1. Silahkan buka link di browser anda
 2. Silahkan isi data mahasiswa atau calon mahasisiswa yang akan di prediction
