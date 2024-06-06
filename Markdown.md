@@ -48,4 +48,5 @@ Dari hasil analisis yang didapat ada beberapa conclusion yang dapat diberikan ya
 1. Institut harus membuat kebijakan yang bertujuan untuk meringankan biaya kuliah mahasiswa seperti biaya kuliah yang dapat diangsur, mahasiswa yang berprestasi atau memiliki IPK datas 3.50 akan diberikan potongan biaya kuliah.
 2. Institut harus meningkatkan sebaran beasiswa untuk di setiap course terutama course  Management (evening attendance) yang memiliki angka dropout paling tinggi. Institut dapat memberikan 40 hingga 50 persen sebaran beasiswa berdasarkan jumlah keseluruhan mahasiswa pada setiap course dan disesuaikan dengan pendapatan perkapita keluarga mahasiswa agar beasiswa bersifat on target.
 3. Penetapan biaya kuliah harus disesuaikan dengan kondisi GDP nasional. Agar sesuai dengan kemampuan keluarga mahasiswa dalam membayar biaya kuliah.
-4. Institut dapat membuka kesempatan pembiayaan untuk mahasiswa yang memiliki ide bisnis agar ide yang didapatkan dapat direalisasikan dengan baik sehingga dapat meningkatkan ekonomi dan membuka lapangan kerja untuk mahasiswa lain. 
+4. Institut dapat membuka kesempatan pembiayaan untuk mahasiswa yang memiliki ide bisnis agar ide yang didapatkan dapat direalisasikan dengan baik sehingga dapat meningkatkan ekonomi dan membuka lapangan kerja untuk mahasiswa lain.
+
