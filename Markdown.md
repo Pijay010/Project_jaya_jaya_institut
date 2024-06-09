@@ -18,8 +18,7 @@ Di dalam proyek ini cakupan proyek yang akan saya buat adalah sebagai berikut:
 9. Membuat business dashboard menggunakan Tableau
 
 ## Persiapan
-1. Sumber data
-   Sumber data yang digunakan merupakan data yang diunduh secara manual dari dicoding dan diupload secara manual ke google colab melalui storage local komputer. Adapun file data akan dilampirkan di path berkas ('file_final_project.zip'/'file_final_project'/'Notebook'/'data.csv').
+1. Sumber data : 'https://raw.github.com/dicodingacademy/dicoding_dataset/main/students_performance/data.csv'
 2. Setup Environment
 ### Setup Environment - Anaconda
 ```
