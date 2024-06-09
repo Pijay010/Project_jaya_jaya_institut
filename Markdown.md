@@ -23,8 +23,8 @@ Di dalam proyek ini cakupan proyek yang akan saya buat adalah sebagai berikut:
 2. Setup Environment
 ### Setup Environment - Anaconda
 ```
-conda create --name main-ds python=3.11.8
-conda activate main-ds
+conda create --name base python=3.11.8
+conda activate base
 pip install -r requirements.txt
 ```
 
