@@ -35,6 +35,18 @@ Adapun untuk memantau perkembangan masalah attrition di dalam perusahaan Jaya Ja
 4. Grafik Mahasiswa Dropout Berdasarkan Sebaran Beasiswa di setiap Course
    Grafik ini akan menggali informasi sedikit lebih dalam mengenai kondisi mahasiswa dropout berdasarkan sebaran beasiswa. Dari hasil grafik yang didapat bahwa mahasiswa yang memiliki angka dropout paling tinggi yaitu di course Management (evening attendance) memiliki sebaran beasiswa yang rendah dibandingkan dengan course lainnya dengan kondisi GDP yang sama secara quartile 50.
 
+## Menjalankan Sistem Machine Learning
+1. Link : https://projectjayajayainstitut-hs6aaatu2wgdkssbsvvp4x.streamlit.app/
+2. Silahkan buka link di atas pada browser anda
+3. jika anda ingin mengakses model secara lokal pada komputer yaitu dengan cara
+4. buka berkas model lalu copy path berkas tersebut
+5. selanjutnya buka cmd pada komputer anda, lalu ketik cd (isikan copy path) dan run
+6. kemudian tulis streamlit run students_performance_app.py lalu klik localhost dan model prototype siap untuk digunakan
+7. Silahkan isi data mahasiswa atau calon mahasisiswa yang akan di prediction
+8. pada kolom units 1st sem grade dan units 2nd sem grade anda dapat memasukkan nilai type float atau bilangan berkoma
+9. setelah anda memasukkan semua nilai pada kolom, klik tombol evaluate lalu anda akan diminta untuk mengevaluasi atau check kembali nilai yang sebelumnya telah anda masukkan
+10. terakhir, anda dapat klik tombol prediction untuk melihat hasil prediction
+
 ## Conclusion
 Dari hasil analisis yang didapat ada beberapa conclusion yang dapat diberikan yaitu:
 1. Jumlah dropout yang tinggi diakibatkan oleh biaya hidup dan ketidakmampuan mahasiswa dalam membayar biaya kuliah.
@@ -46,13 +58,3 @@ Dari hasil analisis yang didapat ada beberapa conclusion yang dapat diberikan ya
 2. Institut harus meningkatkan sebaran beasiswa untuk di setiap course terutama course  Management (evening attendance) yang memiliki angka dropout paling tinggi. Institut dapat memberikan 40 hingga 50 persen sebaran beasiswa berdasarkan jumlah keseluruhan mahasiswa pada setiap course dan disesuaikan dengan pendapatan perkapita keluarga mahasiswa agar beasiswa bersifat on target.
 3. Penetapan biaya kuliah harus disesuaikan dengan kondisi GDP nasional. Agar sesuai dengan kemampuan keluarga mahasiswa dalam membayar biaya kuliah.
 4. Institut dapat membuka kesempatan pembiayaan untuk mahasiswa yang memiliki ide bisnis agar ide yang didapatkan dapat direalisasikan dengan baik sehingga dapat meningkatkan ekonomi dan membuka lapangan kerja untuk mahasiswa lain.
-
-## Link Prototype dan cara menggunakan Prototype
-1. Link : https://projectjayajayainstitut-hs6aaatu2wgdkssbsvvp4x.streamlit.app/
-2. Cara menggunakan Prototype yaitu:
-1. Silahkan buka link di browser anda
-2. Silahkan isi data mahasiswa atau calon mahasisiswa yang akan di prediction
-3. pada kolom units 1st sem grade dan units 2nd sem grade anda dapat memasukkan nilai type float atau bilangan berkoma
-4. setelah anda memasukkan semua nilai pada kolom, klik tombol evaluate lalu anda akan diminta untuk mengevaluasi atau check kembali nilai yang sebelumnya telah anda masukkan
-5. terakhir, anda dapat klik tombol prediction untuk melihat hasil prediction
-
