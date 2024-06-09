@@ -9,12 +9,12 @@ Saat ini Jaya Jaya Institut memiliki pernmasalahan yaitu tingginya angka mahasis
 ## Cakupan proyek
 Di dalam proyek ini cakupan proyek yang akan saya buat adalah sebagai berikut:
 1. Menggunakan bahasa python
-2. menggunakan google colab untuk proses analisis hingga membuat model machine learning
-3. Menggunakan library otomatis yang disediakan oleh google colab. sedangkan untuk library yanag tidak disediakan oleh google colab seperti library XGBoost, saya menginstallnya secara manual dengan scrpt code !pip install xgboost
+2. menggunakan visual code untuk bingkai kerja
+3. menyiapkan environment menggunakan anaconda dan menginstall library-library yang dibutuhkan
 4. Membuat visualisasi data untuk mempermudah dalam menemukan informasi lebih dalam 
-5. Membuat model machine learning dengan menguji berbagai model algoritma dan menggunakan model algoritma terbaik untuk proses prediction
-6. Membuat protoype 
-7. Membuat proses deployment menggunakan streamnlit
+6. Membuat model machine learning dengan menguji berbagai model algoritma dan menggunakan model algoritma terbaik untuk proses prediction
+7. Membuat prototype 
+8. Membuat proses deployment menggunakan streamnlit
 9. Membuat business dashboard menggunakan Tableau
 
 ## Persiapan
