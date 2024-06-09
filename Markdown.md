@@ -22,7 +22,7 @@ Di dalam proyek ini cakupan proyek yang akan saya buat adalah sebagai berikut:
 2. Setup Environment
 ### Setup Environment - Anaconda
 ```
-conda create --name base python=3.11.8
+conda create --name base python=3.11.7
 conda activate base
 pip install -r requirements.txt
 ```
